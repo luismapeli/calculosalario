@@ -36,6 +36,4 @@ public double calcularSalario(){
   public void setNome(String nome) {
     this.nome = nome;
   }
-
-
 }
